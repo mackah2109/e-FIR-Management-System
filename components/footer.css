@@ -1,0 +1,63 @@
+.footer{
+  margin-bottom: -3rem;
+  margin-top: -3rem;
+  color: white;
+  background-color: rgb(7, 7, 99); 
+  padding-bottom: 2rem;
+  padding-top: 2rem;
+  justify-content: space-around;
+}
+.head{
+  display: flex;
+  padding-left: 4rem;
+  margin-left: 4rem;
+}
+.content{
+  display: flex;
+  padding-left: 1.7rem;
+  margin-left: 3.8rem;
+}
+.content p{
+  margin-left: 2.5rem;
+}
+.about{
+  margin-left: 6rem;
+}
+.police{
+  margin-left: -55.2rem;
+}
+.police a{
+  text-decoration: none;
+  color: white;
+}
+.police a:hover{
+  color: rgb(142, 215, 142);
+}
+.help{
+  padding-left: 8rem;
+}
+.help1{
+  padding-left: 5.8rem;
+}
+.follow{
+  padding-left: 7.5rem;
+}
+.follow1{
+  padding-left: 7rem;
+}
+.follow1 li:hover{
+  color: rgb(142, 215, 142);
+}
+.footer ul{
+  text-decoration: none;
+  list-style: none; 
+}
+.contact{
+  margin-left: 10rem;
+}
+.contact1{
+  margin-left: 9.8rem;
+}
+.email{
+  color: white;
+}

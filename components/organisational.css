@@ -1,0 +1,18 @@
+.organisational{
+    height: 190vh;
+    padding-top: 10rem;
+    background-color: beige;
+}
+.organisational img{
+    margin-left: 3.6rem;
+}
+.organisational h2 u{
+    margin-top: 2rem;
+}
+.gazette{
+    margin-top: 3rem;
+    margin-left: 12rem;
+}
+.gazette img{
+    width: 70rem;
+}

@@ -1,0 +1,16 @@
+.body{
+  background-image: url("images/back.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 112vh;
+}
+
+.fir_registeration{
+  background-image: url("images/fir.jpeg");
+  height: 200vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

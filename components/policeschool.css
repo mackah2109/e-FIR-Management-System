@@ -1,0 +1,17 @@
+.school{
+    padding-top: 10rem;
+    height: 160vh;
+    background-color: beige;
+}
+table{
+    border-collapse: collapse;
+    border-color: black;
+    width: 70%;
+    text-align: center;
+    margin-left: 15rem;
+    color: red;
+    font-weight: bold;
+}
+.school tr{
+    height: 2rem;
+}

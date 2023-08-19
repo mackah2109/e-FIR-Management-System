@@ -1,0 +1,39 @@
+.general{
+    background-color: beige;
+    padding-top: 10rem;
+    height: 420vh;
+}
+.general h1{
+    text-align: center;
+}
+.para{
+    margin-left: 14.4rem;
+    width: 70%;
+}
+.po li{
+    list-style-type:square;
+}
+hr{
+    height: 0.2rem;
+    background-color: red;
+}
+ol li{
+    padding-top: 1rem;
+}
+table{
+    border-collapse: collapse;
+    border-color: black;
+    width: 70%;
+    text-align: center;
+    margin-left: 15rem;
+    color: red;
+    font-weight: bold;
+}
+thead{
+    background-color: rgb(205, 200, 200);
+    color: black;
+}
+.total{
+    background-color: rgb(205, 200, 200);
+    color: black;
+}
